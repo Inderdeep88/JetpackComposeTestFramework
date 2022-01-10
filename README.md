@@ -33,6 +33,10 @@ Output APKs will be generated at below paths for debug variants:
 | Jetsnack App | app/build/outputs/apk/debug/app-debug.apk |
 | Jetsnack Test App | app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk |
 
+## Run Preinstalled Emulator
+```
+> emulator -avd Nexus_6_API_25_N&
+```
 
 ## Execute Tests
 Below command will execute Tests on the main App
